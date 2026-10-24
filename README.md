@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vikas-Agarwal16&style=flat-square&color=blue" alt="views" />
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vikas-agarwal16"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vikasagarwal.sma@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 |---|---|---|---|
 | **Raydar** | Alert-notification platform with dashboard | Next.js 14, MongoDB Atlas, Tailwind | [Live](https://raydar-qpse.vercel.app) · [Code](https://github.com/Vikas-Agarwal16/raydar) |
 | **SigmaGPT** | Full-stack AI chatbot | MERN | [Live](https://sigmagpt-self.vercel.app) · [Code](https://github.com/Vikas-Agarwal16/sigma_gpt) |
-| **AquaHeat** | Water forecasting + simulation app | Flask, Python, AWS EC2 | [Code](https://github.com/Vikas-Agarwal16) |
+| **Varuna Netra** | AI marine debris and anomaly detection from side-scan sonar (YOLO) with web dashboard, SIH 2026 | YOLO, Web App, REST API | [Live](https://varuna-netra.onrender.com) |
 
 ## Tech Stack
 
