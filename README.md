@@ -10,29 +10,9 @@
 ---
 
 ## About
-
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <img src="assets/photo.jpg" width="220" alt="Vikas" />
-    </td>
-    <td>
-      <ul>
-        <li>Building full-stack products solo: Next.js, MongoDB, Tailwind, Vercel</li>
-        <li>Currently: DSA + system design, aiming for SDE roles</li>
-        <li>Ship first, polish second</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Gallery
-
-<p align="center">
-  <img src="assets/raydar.png" width="32%" alt="Raydar" />
-  <img src="assets/sigmagpt.png" width="32%" alt="SigmaGPT" />
-  <img src="assets/varuna-netra.png" width="32%" alt="Varuna Netra" />
-</p>
+- Building full-stack products solo: Next.js, MongoDB, Tailwind, Vercel
+- Currently: DSA + system design, aiming for SDE roles
+- Ship first, polish second
 
 ## Projects
 
